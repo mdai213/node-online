@@ -1,11 +1,7 @@
-<script setup>
-
-</script>
+<script setup></script>
 
 <template>
   <main>
-    <h1 class="text-3xl font-bold underline">
-     Hello world!
-    </h1>
+    Home page
   </main>
 </template>
