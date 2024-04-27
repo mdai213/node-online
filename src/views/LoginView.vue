@@ -9,7 +9,7 @@
       >
         <img
           class="w-8 h-8 mr-2"
-          src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/logo.svg"
+          src="https://cdn.anotepad.com/images/anotepad.svg"
           alt="logo"
         />
         Note Online
